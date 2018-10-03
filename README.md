@@ -13,8 +13,8 @@
         <img src="https://img.shields.io/badge/時津風-discontinued-red.svg"
             alt="status"></a>
     <a href="#update">
-        <img src="https://img.shields.io/badge/updates-outdated-red.svg"
-            alt="status"></a>
+        <img src="https://img.shields.io/badge/update-outdated-FFA500.svg"
+            alt="update"></a>
 </p>
 
 My personal website. Feel free to look, roast, blame, or give pull request.
