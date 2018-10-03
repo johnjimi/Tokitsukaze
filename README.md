@@ -15,6 +15,9 @@
     <a href="#update">
         <img src="https://img.shields.io/badge/update-outdated-FFA500.svg"
             alt="update"></a>
+     <a href="#dependencies">
+        <img src="https://img.shields.io/badge/html- javascript, css-yellowgreen.svg"
+            alt="dependencies"></a>
 </p>
 
 My personal website. Feel free to look, roast, blame, or give pull request.
