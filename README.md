@@ -1,7 +1,7 @@
 # tokitsukaze
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/johnjimysom/tokitsukaze/master/LICENSE" alt="WTFPL License">
+    <a href="https://raw.githubusercontent.com/johnjimysom/tokitsukaze/master/LICENSE" alt="MIT License">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>
     <a href="#version">
         <img src="https://img.shields.io/badge/version-1.0-lightblue.svg"
